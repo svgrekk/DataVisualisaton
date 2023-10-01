@@ -32,6 +32,14 @@ The main goal of this repository is to exhibit my expertise in data visualizatio
 ![Dashboard for Passengers Data](./img/Dashboard_passerngers.png)
 - **Interactive Dashboard**: [Tableau Public - Passengers Data](https://public.tableau.com/views/week4_lab/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
+## Flourish Visualization
+
+- **Library Catalog Visualization**: An interactive visualization crafted using Flourish to represent a library catalog.
+  - [Visualization Link](https://public.flourish.studio/visualisation/8037234/)
+  - ![Screenshot](./img/Library_dashboard.png)
+
+
 ## Data Privacy
 
 Please note that all datasets used in this repository are for demonstration purposes only. Any resemblance to real data is purely coincidental. Always ensure no sensitive or private information is present in datasets when sharing.
