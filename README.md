@@ -1,6 +1,6 @@
 # Data Visualization Showcase
 
-This repository is a demonstration of my data visualization skills using Tableau. The visualizations cover various datasets, showcasing a range of analytical and visualization techniques.
+This repository is a demonstration of my data visualization skills using Tableau and Florish. The visualizations cover various datasets, showcasing a range of analytical and visualization techniques.
 
 ## Purpose
 
